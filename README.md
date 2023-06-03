@@ -4,7 +4,7 @@
 <br>
 🌱 Atualmente estou estudando Python, Redes Neurais Artificiais, Flutter, Spring Boot e Kotlin.
 <br>
-👯 Atuo como pesquisador no MIDI (Grupo de Mineração de Dados e Imagens) do IFTM.
+👯 Atuo como pesquisador no MIDI (Grupo de Pesquisa e Mineração de Dados e Imagens) do IFTM.
 <br>
 📫 Entre em contato por rangersouza35@gmail.com
 <br>
