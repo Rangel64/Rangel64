@@ -9,7 +9,7 @@
 📫 Entre em contato por rangersouza35@gmail.com
 <br>
 
-<div align="center" display: flex; justify-content: center; align-items: stretch; >
+<div display: flex; justify-content: center; align-items: stretch; >
   
   ![Rangel Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=radical)
   
