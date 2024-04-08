@@ -13,7 +13,7 @@
 
 <div align="center" display: flex; justify-content: center; align-items: stretch;">
   
-  ![Rangel Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=radical" alt="Rangel Neves   GitHub stats" height="40" width="50">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact&theme=radical" alt="Top Langs"height="40" width="50">
   
 </div>
