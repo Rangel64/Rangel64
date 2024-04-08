@@ -11,7 +11,7 @@
 
 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   ![Rangel Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact)
