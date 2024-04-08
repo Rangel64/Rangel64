@@ -1,4 +1,4 @@
-### Olá, sou o Rangel Neves 👋
+### Olá, sou o Rangel 👋
 
 🔭 Estou trabalhando como Dev na Bugware, empresa júnior do IFTM.
 <br>
