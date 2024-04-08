@@ -8,12 +8,11 @@
 <br>
 📫 Entre em contato por rangersouza35@gmail.com
 <br>
-
-<a href="https://github.com/Rangel64">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact&langs_count=7&theme=tokyonight"/>
-
-
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/Rangel64">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 
