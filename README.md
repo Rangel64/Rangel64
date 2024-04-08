@@ -13,7 +13,6 @@
 
 <div align="center" display: flex; justify-content: center; align-items: stretch;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Rangel64&show_icons=true&theme=radical" alt="Rangel Neves   GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel64&layout=compact&theme=radical" alt="Top Langs">
+  
   
 </div>
