@@ -56,6 +56,6 @@
 <br clear="both">
 
 <a href="https://github.com/Rangel64/Rangel64/actions/workflows/snake.yml">
-  <img src="https://raw.githubusercontent.com/Rangel64/Rangel64/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/kurisaW/Rangel64/actions/workflows/snake.yml/badge.svg" alt="Snake Contrib">
 </a>
 ###
